@@ -1,4 +1,7 @@
 # theme: jekyll-theme-midnight
 
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin    : "dark"
+# theme: minimal-mistakes-jekyll
+# minimal_mistakes_skin    : "dark"
+
+# 이것도 많이 쓴다고 하네..
+theme: jekyll-theme-hacker 
