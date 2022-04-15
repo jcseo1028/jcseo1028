@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![jcseo's github stats](https://github-readme-stats.vercel.app/api?username=jcseo1028&show_icons=true&theme=merko)
+![jcseo's github stats](https://github-readme-stats.vercel.app/api?username=jcseo1028&show_icons=true&theme=merko&hide_border=true)
 
-![jcseo's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcseo1028&layout=compact&theme=merko&hide_border=false)
+![jcseo's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcseo1028&show_icons=true&theme=merko&hide_border=true)
 
 
 
