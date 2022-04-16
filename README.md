@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-![jcseo's github stats](https://github-readme-stats.vercel.app/api?username=jcseo1028&show_icons=true&theme=merko&hide_border=true)
+#### 🌱 I’m currently learning ...
 
-![jcseo's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcseo1028&show_icons=true&theme=merko&hide_border=true)
+[![jcseo's github stats](https://github-readme-stats.vercel.app/api?username=jcseo1028&show_icons=true&theme=merko&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![jcseo's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcseo1028&show_icons=true&theme=merko&hide_border=true&hide=)](https://github.com/anuraghazra/github-readme-stats)
 
+[![jcseo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jcseo1028&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
-
-
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jcseo1028&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt="jcseo's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcseo1028&layout=compact&theme=swift&hide_border=true" /></a> |
 | ------------- | ------------- |
