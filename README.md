@@ -4,9 +4,9 @@
 
 [![jcseo's github stats](https://github-readme-stats.vercel.app/api?username=jcseo1028&show_icons=true&theme=merko&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![jcseo's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcseo1028&show_icons=true&theme=merko&hide_border=true&hide=)](https://github.com/anuraghazra/github-readme-stats)
+[![jcseo's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcseo1028&layoyt=compact&show_icons=true&theme=merko&hide_border=true&hide=)](https://github.com/anuraghazra/github-readme-stats)
 
-[![jcseo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jcseo1028&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![jcseo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jcseo1028&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
