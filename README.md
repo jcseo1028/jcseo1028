@@ -3,9 +3,7 @@
 #### 🌱 I’m currently learning ...
 [![wakatime](https://wakatime.com/badge/user/a190b6f7-20e9-403b-a465-cc5da58bac66.svg)](https://wakatime.com/@a190b6f7-20e9-403b-a465-cc5da58bac66)
 
-[![jcseo's github stats](https://github-readme-stats.vercel.app/api?username=jcseo1028&show_icons=true&theme=merko&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![jcseo's github stats](https://github-readme-stats.vercel.app/api?username=jcseo1028&show_icons=true&theme=merko&hide_border=false)](https://github.com/jcseo1028/github-readme-stats)
+[![jcseo's github stats](https://github-readme-stats.vercel.app/api?username=jcseo1028&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 Public Repository 만 통계를 내는 거 같음.
